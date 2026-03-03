@@ -1,6 +1,6 @@
 # GRAM Dataset
 
-**Label masks, pseudo masks, and evaluation results for GRAM**
+**Labels, pseudo masks, and evaluation results for GRAM**
 
 This page provides the dataset used for **[GRAM (Generalized Region-Aware Mixture-of-Experts)](https://github.com/DS4H-GIS/GRAM)**, presented at AAAI 2026. For details on the model and methodology, please refer to our [paper](https://arxiv.org/abs/2511.10300).
 

@@ -53,7 +53,7 @@ Link: [Source](https://www.atlasofinformality.com/)
 
 ### Results
 
-Evaluation results (mIoU / F1-score) for target cities.
+Evaluation results and performance (mIoU / F1-score) for target cities.
 Note that the spatial resolution of the released predictions has been reduced due to privacy considerations.
 
 Link: [Dar es Salaam](https://drive.google.com/file/d/1PrxF_lwqOS54_PGPg66H200G7B6jT8tu/view?usp=drive_link), [Kampala](https://drive.google.com/file/d/19Le5Z0aopXywD5TLO2klwLl9o34Ua8Ah/view?usp=drive_link), [Maputo](https://drive.google.com/file/d/19vtl3mPgF9KnDVwKarvBAx36Ip-HMHT9/view?usp=drive_link)

@@ -56,7 +56,7 @@ Link: [Source](https://www.atlasofinformality.com/)
 Evaluation results and performance (mIoU / F1-score) for target cities.
 Note that the spatial resolution of the released predictions has been reduced due to privacy considerations.
 
-Link: (TBD)
+Link: [Google Drive](https://drive.google.com/file/d/1G-cyE-PVhDSnl7LFNh-eBa3rG9KF-DQ0/view?usp=drive_link)
 
 | Method | Dar es Salaam | Kampala | Maputo |
 |---|---|---|---|
